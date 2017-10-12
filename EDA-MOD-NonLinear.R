@@ -12,9 +12,10 @@
 #                  Unit
 #
 #
-# TODO:   Improving Fit, Model for Data Mining!
+# TODO:   Improving Fit, Model for Data Mining...
 #
 #
+###
 # == DO NOT SIMPLY  source()  THIS FILE! =======================================
 #
 # If there are portions you don't understand, use R's help system, Google for an
